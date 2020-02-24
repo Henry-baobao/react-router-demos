@@ -1,0 +1,7 @@
+#Dependency directions
+node_modules/
+
+#VSCode configs
+.vscode
+
+yarn.lock
